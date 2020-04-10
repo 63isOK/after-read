@@ -7,3 +7,8 @@
 未来预期:附加一个分支和action,用action将master分支的md生成为html,
 发布到指定分支,用github page来显示;其次自动推送到其他平台;
 第三,最后可能会从md扩展到图形(可能还需要一个wasm来支持显示).
+
+## 2020年
+
+- 4月
+  - 10号 [lisp开发环境配置](/posts/2020.04.10 mit scheme.md)
