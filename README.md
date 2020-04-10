@@ -11,4 +11,4 @@
 ## 2020年
 
 - 4月
-  - 10号 [lisp开发环境配置](/posts/2020.04.10 mit scheme.md)
+  - 10号 [lisp开发环境配置](/posts/2020.04.10\ mit\ scheme.md)
